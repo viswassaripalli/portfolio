@@ -1,15 +1,15 @@
 import React from "react";
 import { Component } from "react";
 import "./App.css";
-import html from "/Users/viswassaripalli/Desktop/portfolio/src/html.png";
-import css from "/Users/viswassaripalli/Desktop/portfolio/src/css.png";
-import js from "/Users/viswassaripalli/Desktop/portfolio/src/js.png";
-import boot from "/Users/viswassaripalli/Desktop/portfolio/src/bootstrap.png";
-import java from "/Users/viswassaripalli/Desktop/portfolio/src/java.png";
-import reactjs from "/Users/viswassaripalli/Desktop/portfolio/src/react.png";
-import swift from "/Users/viswassaripalli/Desktop/portfolio/src/swift.png";
-import php from "/Users/viswassaripalli/Desktop/portfolio/src/php.png";
-import jq from "/Users/viswassaripalli/Desktop/portfolio/src/jq.png";
+import html from "./html.png";
+import css from "./css.png";
+import js from "./js.png";
+import boot from "./bootstrap.png";
+import java from "./java.png";
+import reactjs from "./react.png";
+import swift from "./swift.png";
+import php from "./php.png";
+import jq from "./jq.png";
 
 class Skill extends Component {
   render() {
